@@ -2,7 +2,7 @@
 <h3 align="center">Mobile Developer with Flutter & Jetpack Compose</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royhan2123&label=Profile%20views&color=0e75b6&style=flat" alt="royhan2123" /> </p>
-<img align="right" alt="coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif.gif">
+<img align="right" alt="coding" width="380" src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
