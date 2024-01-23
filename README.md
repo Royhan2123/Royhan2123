@@ -2,7 +2,7 @@
 <h3 align="center">Mobile Developer with Flutter & Jetpack Compose</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royhan2123&label=Profile%20views&color=0e75b6&style=flat" alt="royhan2123" /> </p>
-<img align="right" alt="coding" width="400" src="https://mograph.video/2HwFiEL">
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
