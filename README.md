@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💻 Mastered technology **Jetpack Compose,Flutter,Laravel,Firebase**
-
 - 📱 My linkedin [https://www.linkedin.com/in/royhan-465b71274/](https://www.linkedin.com/in/royhan-465b71274/)
 
 - 💻 Programming language **Kotlin,Java,Dart,Php,**
